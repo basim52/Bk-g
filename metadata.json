@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Cosmic Flow",
+  "description": "Harvest wandering cosmic orbs, score points, buy powerups, and compete with other players and bots on the leaderboards in real time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
